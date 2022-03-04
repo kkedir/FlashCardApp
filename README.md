@@ -7,9 +7,9 @@
 `TODO://` This android app will shown question and when users click on it the answer will be displayed.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+`TODO://` https://github.com/kkedir/FlashCardApp/blob/master/walkthrough.gif
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/kkedir/FlashCardApp/blob/master/walkthrough.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
