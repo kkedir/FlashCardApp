@@ -1,13 +1,13 @@
 ## FlashCardApp
 
-📝 `NOTE:` Lab 1 Project FlashCard App
+Lab 1 Project FlashCard App
 ## Lab 1
 
 ### App Description
-`TODO://` This android app will shown question and when users click on it the answer will be displayed.
+ This android app will shown question and when users click on it the answer will be displayed.
 
 ### App Walk-though
-`TODO://` https://github.com/kkedir/FlashCardApp/blob/master/walkthrough.gif
+https://github.com/kkedir/FlashCardApp/blob/master/walkthrough.gif
 
 <img src="https://github.com/kkedir/FlashCardApp/blob/master/walkthrough.gif" width=200><br>
 
